@@ -119,3 +119,11 @@
 /test-u32-to-u8.c
 /test-u32-uctomb.c
 
+/test-strchr.h
+/test-u-strstr.h
+/test-u16-strchr.c
+/test-u16-strstr.c
+/test-u32-strchr.c
+/test-u32-strstr.c
+/test-u8-strchr.c
+/test-u8-strstr.c

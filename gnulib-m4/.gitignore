@@ -106,3 +106,22 @@
 /xsize.m4
 /yield.m4
 
+/btowc.m4
+/configmake.m4
+/extern-inline.m4
+/fseterr.m4
+/inttypes-pri.m4
+/inttypes.m4
+/iswblank.m4
+/locale-ar.m4
+/mbtowc.m4
+/msvc-inval.m4
+/msvc-nothrow.m4
+/off_t.m4
+/setlocale.m4
+/ssize_t.m4
+/strstr.m4
+/sys_socket_h.m4
+/sys_types_h.m4
+/wcrtomb.m4
+/wctomb.m4
